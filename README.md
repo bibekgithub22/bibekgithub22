@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://www.instagram.com/preeds_fps/**
 
-- ⚡ Fun fact **I play ball ⚽, and I can beat you at PvP games 🎮.**
+- ⚡ Fun fact: **I play ball ⚽, and I can beat you at PvP games 🎮.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
