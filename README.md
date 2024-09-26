@@ -1,6 +1,6 @@
 ![logo](https://github.com/AyushRay06/AyushRay06/blob/main/mariobanner.gif)
 <h1 align="center">Hi 👋, I'm Bibek Biswas</h1>
-<h3 align="center">A passionate and inquisitive frontend developer from India📍</h3>
+<h3 align="center">A passionate and inquisitive frontend developer from Dibrugarh, India📍</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekgithub22&label=Profile%20visits&color=0092db&style=flat" alt="bibekgithub22" /> </p>
 
