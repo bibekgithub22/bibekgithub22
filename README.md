@@ -1,4 +1,4 @@
-![logo](https://github.com/AyushRay06/AyushRay06/blob/main/mariobanner.gif)
+![logo](/mariobanner2.gif)
 <h1 align="center">Hi 👋, I'm Bibek Biswas</h1>
 <h3 align="center">A passionate and inquisitive frontend developer from Dibrugarh, India📍</h3>
 
