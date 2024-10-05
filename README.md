@@ -1,8 +1,8 @@
-
+![logo](/mariobanner2.gif)
 <h1 align="center">Hi 👋, I'm Bibek Biswas</h1>
 <h3 align="center">A passionate and inquisitive frontend developer from Dibrugarh, India📍</h3>
-![logo](/mariobanner2.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bibekgithub22&label=Profile%20visits&color=0092db&style=flat" alt="bibekgithub22" /> </p>
+
 
 - 🔭 I’m currently working on **React js + Tailwind**
 
